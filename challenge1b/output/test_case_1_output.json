@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "input_documents": [
+            "gnn_drug_discovery_paper1.pdf",
+            "gnn_drug_discovery_paper2.pdf",
+            "gnn_drug_discovery_paper3.pdf",
+            "gnn_drug_discovery_paper4.pdf"
+        ],
+        "persona": "PhD Researcher in Computational Biology",
+        "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+        "processing_timestamp": "2025-07-28T00:00:00"
+    },
+    "extracted_sections": [
+        {
+            "document": "gnn_drug_discovery_paper1.pdf",
+            "page": 1,
+            "section_title": "Placeholder Section Title",
+            "importance_rank": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "gnn_drug_discovery_paper1.pdf",
+            "page": 1,
+            "refined_text": "This is a placeholder refined sub-section text."
+        }
+    ]
+}

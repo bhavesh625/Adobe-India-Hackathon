@@ -1,0 +1,11 @@
+{
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "documents": [
+        "organic_chemistry_chapter1.pdf",
+        "organic_chemistry_chapter2.pdf",
+        "organic_chemistry_chapter3.pdf",
+        "organic_chemistry_chapter4.pdf",
+        "organic_chemistry_chapter5.pdf"
+    ]
+}

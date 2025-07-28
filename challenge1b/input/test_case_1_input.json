@@ -1,0 +1,10 @@
+{
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "documents": [
+        "gnn_drug_discovery_paper1.pdf",
+        "gnn_drug_discovery_paper2.pdf",
+        "gnn_drug_discovery_paper3.pdf",
+        "gnn_drug_discovery_paper4.pdf"
+    ]
+}

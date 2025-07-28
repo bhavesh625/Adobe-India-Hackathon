@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "input_documents": [
+            "tech_company_report_2022.pdf",
+            "tech_company_report_2023.pdf",
+            "tech_company_report_2024.pdf"
+        ],
+        "persona": "Investment Analyst",
+        "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+        "processing_timestamp": "2025-07-28T00:00:00"
+    },
+    "extracted_sections": [
+        {
+            "document": "tech_company_report_2022.pdf",
+            "page": 1,
+            "section_title": "Placeholder Section Title",
+            "importance_rank": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "tech_company_report_2022.pdf",
+            "page": 1,
+            "refined_text": "This is a placeholder refined sub-section text."
+        }
+    ]
+}
